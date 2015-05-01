@@ -1,5 +1,3 @@
-pqoiwueafwieonfpoeivfpqwoivjfpqowijf
-
 I learned some cool things about python today. 
 
 learned about python functions
@@ -11,4 +9,8 @@ Added even more lines!
 
 Add some new unwanted changes!
 
+
 Nick and Sayed are collaborating. 
+
+Even faster changes!
+
